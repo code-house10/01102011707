@@ -3576,7 +3576,7 @@ body
 {
    color: #000000;
    font-family: "Arial";
-   font-size: 16px;
+   font-size: 15px;
 }
 #wb_Lottie4
 {
@@ -5682,7 +5682,7 @@ body
 #wb_Text3
 {
    left: 55px;
-   top: 25px;
+   top: 27px;
    width: 146px;
    height: 22px;
    visibility: visible;
@@ -5696,12 +5696,12 @@ body
 #wb_Text4
 {
    left: 201px;
-   top: 22px;
-   width: 199px;
-   height: 18px;
+   top: 25px;
+   width: 157px;
+   height: 16px;
    visibility: visible;
    display: inline;
-   background-color: #FFFFFF;
+   background-color: #FFC000;
    background-image: none;
    background-image: none;
    border-radius: 6px;
